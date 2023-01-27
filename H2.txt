@@ -1,0 +1,25 @@
+Horarios Disponibles:
+Enero-Febrero 2023: 
+
+Oriol Cordoba - Traumatologo
+Horarios: 
+1. 12 am - 1 pm
+2. 5 pm - 6 pm
+
+Teresa Carro - Dentista
+Horarios:
+3. 10 am - 11 am
+4. 3 pm - 4 pm
+
+Maria-Fernanda Barbero - Oftalmologia
+Horarios:
+5. 7 am - 8 am
+6. 7 pm - 8 pm
+
+Jose-Ignacio Palacio - Urologia
+7. 8 am - 9 am
+8. 1 pm - 2 pm
+
+Samara Agullo - Psiquiatria
+9. 11 am - 12 am
+10. 4 pm - 5 pm
